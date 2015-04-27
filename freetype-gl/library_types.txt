@@ -1,0 +1,52 @@
+LibraryName:FreeType 2
+TypesFiles:freetype2.taghl
+TypesSuffixes:c
+CheckMode:MatchStart
+MatchREs:
+	^\s*#\s*include\s*<arial-16.h>
+	^\s*#\s*include\s*<demo-ansi.c>
+	^\s*#\s*include\s*<demo-atb-agg.c>
+	^\s*#\s*include\s*<demo-benchmark.c>
+	^\s*#\s*include\s*<demo-cartoon.c>
+	^\s*#\s*include\s*<demo-console.c>
+	^\s*#\s*include\s*<demo-cube.c>
+	^\s*#\s*include\s*<demo-distance-field-2.c>
+	^\s*#\s*include\s*<demo-distance-field-3.c>
+	^\s*#\s*include\s*<demo-distance-field.c>
+	^\s*#\s*include\s*<demo-font.c>
+	^\s*#\s*include\s*<demo-gamma.c>
+	^\s*#\s*include\s*<demo-glyph.c>
+	^\s*#\s*include\s*<demo-lcd.c>
+	^\s*#\s*include\s*<demo-makefont.c>
+	^\s*#\s*include\s*<demo-markup.c>
+	^\s*#\s*include\s*<demo-outline.c>
+	^\s*#\s*include\s*<demo-subpixel.c>
+	^\s*#\s*include\s*<demo-texture.c>
+	^\s*#\s*include\s*<edtaa3func.c>
+	^\s*#\s*include\s*<edtaa3func.h>
+	^\s*#\s*include\s*<font-manager.c>
+	^\s*#\s*include\s*<font-manager.h>
+	^\s*#\s*include\s*<freetype-gl.h>
+	^\s*#\s*include\s*<makefont.c>
+	^\s*#\s*include\s*<markup.h>
+	^\s*#\s*include\s*<mat4.c>
+	^\s*#\s*include\s*<mat4.h>
+	^\s*#\s*include\s*<opengl.h>
+	^\s*#\s*include\s*<platform.c>
+	^\s*#\s*include\s*<platform.h>
+	^\s*#\s*include\s*<README.md>
+	^\s*#\s*include\s*<shader.c>
+	^\s*#\s*include\s*<shader.h>
+	^\s*#\s*include\s*<text-buffer.c>
+	^\s*#\s*include\s*<text-buffer.h>
+	^\s*#\s*include\s*<texture-atlas.c>
+	^\s*#\s*include\s*<texture-atlas.h>
+	^\s*#\s*include\s*<texture-font.c>
+	^\s*#\s*include\s*<texture-font.h>
+	^\s*#\s*include\s*<vec234.h>
+	^\s*#\s*include\s*<vector.c>
+	^\s*#\s*include\s*<vector.h>
+	^\s*#\s*include\s*<vertex-attribute.c>
+	^\s*#\s*include\s*<vertex-attribute.h>
+	^\s*#\s*include\s*<vertex-buffer.c>
+	^\s*#\s*include\s*<vertex-buffer.h>
