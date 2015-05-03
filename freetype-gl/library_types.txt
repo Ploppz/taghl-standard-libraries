@@ -1,10 +1,10 @@
 LibraryName:ftgl
-TypesFiles:ftgl.taghl
+TypesFiles:freetype-gl.taghl
 TypesSuffixes:c
 CheckMode:MatchStart
 	^\s*#\s*include\s*<ftgl\/edtaa3func\.h>
 	^\s*#\s*include\s*<ftgl\/font-manager\.h>
-	^\s*#\s*include\s*<ftgl\/ftgl\.h>
+	^\s*#\s*include\s*<ftgl\/freetype-gl\.h>
 	^\s*#\s*include\s*<ftgl\/markup\.h>
 	^\s*#\s*include\s*<ftgl\/mat4\.h>
 	^\s*#\s*include\s*<ftgl\/opengl\.h>
